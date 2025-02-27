@@ -1,0 +1,6 @@
+Console.WriteLine(" Grocery items: rice");
+Console.WriteLine(" Grocery items: milk");
+Console.WriteLine(" Grocery items: egg");
+Console.WriteLine(" Grocery items: Flour");
+Console.WriteLine(" Grocery items: oil");
+
